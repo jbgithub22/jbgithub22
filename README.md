@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-####🔭 I’m currently working on Machine Learning projects and getting familiar with datasets from various domains.
+#### 🔭 I’m currently working on Machine Learning projects and getting familiar with datasets from various domains.
 
-####🌱 I’m currently learning Python ML Libraries and Back-end Cloud Development.
+#### 🌱 I’m currently learning Python ML Libraries and Back-end Cloud Development.
 
-####⚡ Summary of projects I've done:
+#### ⚡ Summary of projects I've done:
 - TrueNAS Home Server
 - OpenSEA NFT Collection
 - Ender 3 Pro 3D Printer (Modded)
