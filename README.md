@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+####🔭 I’m currently working on Machine Learning projects and getting familiar with datasets from various domains.
+
+####🌱 I’m currently learning Python ML Libraries and Back-end Cloud Development.
+
+####⚡ Summary of projects I've done:
+- TrueNAS Home Server
+- OpenSEA NFT Collection
+- Ender 3 Pro 3D Printer (Modded)
+
 <!--
 **jbgithub22/jbgithub22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
