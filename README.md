@@ -7,17 +7,12 @@ I am a passionate Tech Enthusiast with a background in design and architecture. 
 ## Projects Overview
 This GitHub repository serves as a comprehensive showcase of my work, featuring a diverse array of projects that highlight my skills and interests in data engineering and data science. Below is a brief overview of the key areas and projects you will find here:
 
-#### 1. Personal Website Project
-
-#### 2. End-to-End Machine Learning Projects
-
-#### 3. Data Engineering ETL Projects
-
-#### 4. PowerBI & Tableau Dashboards
-
-#### 5. Web Apps
-
-#### 6. Various Data Science Jupyter Notebooks
+1. Personal Website Project
+2. End-to-End Machine Learning Projects
+3. Data Engineering ETL Projects
+4. PowerBI & Tableau Dashboards
+5. Web Apps
+6. Various Data Science Jupyter Notebooks
 
 ## Get in Touch
 I am always eager to connect with fellow data enthusiasts and professionals. Feel free to explore my projects and reach out if you have any questions, suggestions, or collaboration opportunities. You can contact me via [LinkedIn](https://linkedin.com/in/jbarcc) or via my [website](https://jbrienweb.dev).
