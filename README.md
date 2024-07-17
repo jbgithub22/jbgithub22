@@ -20,7 +20,7 @@ This GitHub repository serves as a comprehensive showcase of my work, featuring 
 #### 6. Various Data Science Jupyter Notebooks
 
 ## Get in Touch
-I am always eager to connect with fellow data enthusiasts and professionals. Feel free to explore my projects and reach out if you have any questions, suggestions, or collaboration opportunities. You can contact me via LinkedIn or Email.
+I am always eager to connect with fellow data enthusiasts and professionals. Feel free to explore my projects and reach out if you have any questions, suggestions, or collaboration opportunities. You can contact me via [LinkedIn](https://linkedin.com/in/jbarcc) or via my [website](https://jbrienweb.dev).
 
 Thank you for visiting my GitHub page!
 
