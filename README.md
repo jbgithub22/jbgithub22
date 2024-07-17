@@ -1,10 +1,36 @@
+## Welcome to My Tech Developer Portfolio
+For projects on Data, Machine Learning, Web Apps and other Tech fields.
+
+#### About Me
+I am a passionate Tech Enthusiast with a background in design and architecture. My expertise spans across various facets of data science and engineering, including machine learning, business intelligence, data visualization, and web applications. With a strong foundation in SQL, Python, and data pipeline construction, I am dedicated to transforming raw data into actionable insights and impactful solutions.
+
+#### Projects Overview
+This GitHub repository serves as a comprehensive showcase of my work, featuring a diverse array of projects that highlight my skills and interests in data engineering and data science. Below is a brief overview of the key areas and projects you will find here:
+
+##### 1. Personal Website Project
+
+##### 2. End-to-End Machine Learning Projects
+
+##### 3. Data Engineering ETL Projects
+
+##### 4. PowerBI & Tableau Dashboards
+
+##### 5. Web Apps
+
+##### 6. Various Data Science Jupyter Notebooks
+
+#### Get in Touch
+I am always eager to connect with fellow data enthusiasts and professionals. Feel free to explore my projects and reach out if you have any questions, suggestions, or collaboration opportunities. You can contact me via LinkedIn or Email.
+
+Thank you for visiting my GitHub page!
+
+<!--
 ### Hi there 👋
 
 #### 🔭 I’m currently working on Machine Learning projects and getting familiar with datasets from various domains.
 
 #### 🌱 I’m currently learning Python ML Libraries and Back-end Cloud Development.
 
-<!--
 #### ⚡ Summary of projects I've done:
 - TrueNAS Home Server
 - OpenSEA NFT Collection
