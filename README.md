@@ -1,5 +1,5 @@
 # Welcome to My Tech Developer Portfolio
-For projects on Data, Machine Learning, Web Apps and other Tech fields.
+For projects on Data, Machine Learning, Web Apps and other topics.
 
 ## About Me
 I am a passionate Tech Enthusiast with a background in design and architecture. My expertise spans across various facets of data science and engineering, including machine learning, business intelligence, data visualization, and web applications. With a strong foundation in SQL, Python, and data pipeline construction, I am dedicated to transforming raw data into actionable insights and impactful solutions.
