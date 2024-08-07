@@ -9,7 +9,7 @@ This GitHub repository serves as a comprehensive showcase of my work, featuring 
 
 1. Personal Website Project
 2. End-to-End Machine Learning Projects
-3. Data Engineering ETL Projects
+3. Data Engineering Projects
 4. PowerBI & Tableau Dashboards
 5. Web Apps
 6. Various Data Science Jupyter Notebooks
