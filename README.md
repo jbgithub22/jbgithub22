@@ -19,6 +19,8 @@ I am always eager to connect with fellow data enthusiasts and professionals. Fee
 
 Thank you for visiting my GitHub page!
 
+[![JBrien's's GitHub stats](https://github-readme-stats.vercel.app/api?username=Breadcrumbsjbgithub22a)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 ### Hi there 👋
 
