@@ -17,8 +17,6 @@ This GitHub repository serves as a comprehensive showcase of my work, featuring 
 ## Get in Touch
 I am always eager to connect with fellow data enthusiasts and professionals. Feel free to explore my projects and reach out if you have any questions, suggestions, or collaboration opportunities. You can contact me via [LinkedIn](https://linkedin.com/in/jbbarc) or via my [website](https://jbrienweb.dev).
 
-Thank you for visiting my GitHub page!
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbgithub22&layout=compact&hide=jupyter%20notebook&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
