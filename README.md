@@ -19,7 +19,7 @@ I am always eager to connect with fellow data enthusiasts and professionals. Fee
 
 Thank you for visiting my GitHub page!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbgithub22&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbgithub22&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
