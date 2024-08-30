@@ -2,14 +2,14 @@
 For projects on Data, Machine Learning, Web Apps and other topics.
 
 ## About Me
-I am a Tech Enthusiast with a background in design and architecture. My expertise spans across various facets of data science and engineering, including machine learning, business intelligence, data visualization, and web applications. With a strong foundation in SQL, Python, and data pipeline construction, I am dedicated to transforming raw data into actionable insights and impactful solutions.
+I am a Tech Enthusiast with a background in design and architecture. My interest is in learning various tools and bringing them together to ultimately create any project I wish to make.
 
 ## Projects Overview
 This GitHub repository serves as a comprehensive showcase of my work, featuring a diverse array of projects that highlight my skills and interests in data engineering and data science. Below is a brief overview of the key areas and projects you will find here:
 
 1. Personal Website Project
 2. End-to-End Machine Learning Projects
-3. Data Engineering Projects
+3. End-to-End Data Engineering Projects
 4. PowerBI & Tableau Dashboards
 5. Web Apps
 6. Various Data Science Jupyter Notebooks
