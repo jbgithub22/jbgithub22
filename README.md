@@ -1,11 +1,8 @@
-# Welcome to My Tech Developer Portfolio
-For projects on Data, Machine Learning, Web Apps and other topics.
+### Hello and welcome to my repo!
 
-## About Me
-I am a Tech Enthusiast with a background in design and architecture. My interest is in learning various tools and bringing them together to ultimately create any project I wish to make.
+I am just enthusiastic about tech in general. My educational background is in Architecture and Design. It was all fine and good until I slowly dabbled with 3D printing, and that led me deeper into the rabbit hole of engineering. I enjoy going head-first into projects, learning and obtaining the tools and skills as I go.
 
-## Projects Overview
-This GitHub repository serves as a comprehensive showcase of my work, featuring a diverse array of projects that highlight my skills and interests in data engineering and data science. Below is a brief overview of the key areas and projects you will find here:
+Below are things I am currently learning and working on:
 
 1. Personal Website Project
 2. End-to-End Machine Learning Projects
@@ -14,7 +11,6 @@ This GitHub repository serves as a comprehensive showcase of my work, featuring 
 5. Web Apps
 6. Various Data Science Jupyter Notebooks
 
-## Get in Touch
 I am always eager to connect with fellow data enthusiasts and professionals. Feel free to explore my projects and reach out if you have any questions, suggestions, or collaboration opportunities. You can contact me via my [website](https://jbrienweb.dev).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbgithub22&layout=compact&hide=jupyter%20notebook,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) \
