@@ -13,7 +13,7 @@ Below are things I am currently learning and working on:
 
 I am always eager to connect with fellow data enthusiasts and professionals. Feel free to explore my projects and reach out if you have any questions, suggestions, or collaboration opportunities. You can contact me via my [website](https://jbrienweb.dev).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbgithub22&layout=compact&hide=jupyter%20notebook,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) \
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbgithub22&layout=compact&hide=jupyter%20notebook,html,css,tex&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) \
 <sup>*excludes Jupyter Notebooks, HTML and CSS.</sup>
 
 <!--
