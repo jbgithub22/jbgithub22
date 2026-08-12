@@ -4,14 +4,13 @@ I am just enthusiastic about tech in general. My educational background is in Ar
 
 Below are things I am currently learning and working on:
 
-1. Personal Website Project
-2. End-to-End Machine Learning Projects
-3. End-to-End Data Engineering Projects
-4. PowerBI & Tableau Dashboards
-5. Web Apps
-6. Various Data Science Jupyter Notebooks
+1. End-to-End Machine Learning Projects
+2. End-to-End Data Engineering Projects
+3. PowerBI & Tableau Dashboards
+4. Web Apps
+5. Various Data Science Jupyter Notebooks
 
-I am always eager to connect with fellow data enthusiasts and professionals. Feel free to explore my projects and reach out if you have any questions, suggestions, or collaboration opportunities. You can contact me via my [website](https://jbrienweb.dev).
+I am always eager to connect with fellow data enthusiasts and professionals. Feel free to explore my projects and reach out if you have any questions, suggestions, or collaboration opportunities.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbgithub22&layout=compact&hide=jupyter%20notebook,html,css,tex&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) \
 <sup>*excludes Jupyter Notebooks, HTML, CSS and TeX.</sup>
