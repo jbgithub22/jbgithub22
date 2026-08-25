@@ -45,6 +45,8 @@ Currently exploring and building:
 
 I am always eager to connect with fellow builders, engineers, data enthusiasts, and AI explorers. Feel free to explore my projects and reach out for discussions, feedback, or collaboration.
 
+[My Book List](https://github.com/jbgithub22/my-book-list/tree/main)
+
 ---
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=jbgithub22&layout=compact&hide=jupyter%20notebook,html,css,tex&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) \
