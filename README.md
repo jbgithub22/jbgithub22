@@ -1,22 +1,51 @@
 ### Hello and welcome to my repo!
 
-I am just enthusiastic about tech in general. My educational background is in Architecture and Design. It was all fine and good until I slowly dabbled with 3D printing, and that led me deeper into the rabbit hole of engineering. I enjoy going head-first into projects, learning and obtaining the tools and skills as I go.
+My Path: Architecture → Design → 3D Printing → Engineering → Data Science → AI Systems → Systems Architecture
 
-And yes I'm taking/have MSDS, not MSCS. I don't specialize in writing code faster — I specialize in understanding problems, data, AI systems, and turning them into decisions and products.
+I am an independent technology enthusiast with a background in Architecture and Design. My journey into technology started through 3D printing and creative tools, which gradually led me into engineering, programming, data, and artificial intelligence.
 
-For those familiar with older university terms — Data Science brings together areas that used to be studied separately: Statistics, Econometrics, Computer Science, and now Machine Learning/AI.
+I enjoy going head-first into complex projects — learning the required tools, building systems, and connecting ideas across different fields.
 
-Below are things I am currently learning and working on:
+And yes, I am taking an **MSDS, not an MSCS**.
 
-1. End-to-End Machine Learning Projects
-2. End-to-End Data Engineering Projects
-3. PowerBI & Tableau Dashboards
-4. Web Apps
-5. Various Data Science Jupyter Notebooks
+My focus is not just writing code faster. My focus is understanding problems, working with data, designing AI systems, and turning technology into practical decisions, products, and workflows.
 
-I am always eager to connect with fellow data enthusiasts and professionals. Feel free to explore my projects and reach out if you have any questions, suggestions, or collaboration opportunities.
+For those familiar with older university disciplines — Data Science brings together areas that were traditionally studied separately: **Statistics, Econometrics, Computer Science, and now Machine Learning/AI.**
 
+Currently exploring and building:
 
+1. **Local AI & Large Language Model Systems**
+   - Running and experimenting with local LLMs
+   - AI agents, automation workflows, and knowledge systems
+
+2. **Generative AI & Creative Technology**
+   - ComfyUI workflows
+   - AI-assisted illustration pipelines
+   - Creative automation tools
+
+3. **Data Science & Machine Learning Projects**
+   - End-to-end ML pipelines
+   - Statistical analysis
+   - Data-driven decision systems
+
+4. **Data Engineering & Analytics**
+   - Data pipelines
+   - Data processing workflows
+   - PowerBI & Tableau dashboards
+
+5. **Web Applications & Automation**
+   - Full-stack applications
+   - APIs and integrations
+   - Workflow automation with AI assistance
+
+6. **Hardware & Engineering Experiments**
+   - Embedded systems
+   - IoT concepts
+   - Electronics and maker projects
+
+I am always eager to connect with fellow builders, engineers, data enthusiasts, and AI explorers. Feel free to explore my projects and reach out for discussions, feedback, or collaboration.
+
+---
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=jbgithub22&layout=compact&hide=jupyter%20notebook,html,css,tex&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) \
 <sup>*excludes Jupyter Notebooks, HTML, CSS and TeX.</sup>
