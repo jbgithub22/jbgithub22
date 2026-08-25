@@ -2,13 +2,9 @@
 
 My Path: Architecture → Design → 3D Printing → Engineering → Data Science → AI Systems → Systems Architecture
 
-I am an independent technology enthusiast with a background in Architecture and Design. My journey into technology started through 3D printing and creative tools, which gradually led me into engineering, programming, data, and artificial intelligence.
-
 I enjoy going head-first into complex projects — learning the required tools, building systems, and connecting ideas across different fields.
 
-And yes, I am taking an **MSDS, not an MSCS**.
-
-My focus is not just writing code faster. My focus is understanding problems, working with data, designing AI systems, and turning technology into practical decisions, products, and workflows.
+And yes, I am taking an **MSDS, not an MSCS**. My focus is not just writing code faster. My focus is understanding problems, working with data, designing AI systems, and turning technology into practical decisions, products, and workflows.
 
 For those familiar with older university disciplines — Data Science brings together areas that were traditionally studied separately: **Statistics, Econometrics, Computer Science, and now Machine Learning/AI.**
 
