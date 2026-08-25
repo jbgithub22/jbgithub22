@@ -4,6 +4,8 @@ I am just enthusiastic about tech in general. My educational background is in Ar
 
 And yes I'm taking/have MSDS, not MSCS. I don't specialize in writing code faster — I specialize in understanding problems, data, AI systems, and turning them into decisions and products.
 
+For those familiar with older university terms — Data Science brings together areas that used to be studied separately: Statistics, Econometrics, Computer Science, and now Machine Learning/AI.
+
 Below are things I am currently learning and working on:
 
 1. End-to-End Machine Learning Projects
