@@ -1,5 +1,7 @@
 ### Hello and welcome to my repo!
 
+---
+
 My Path: Architecture → Design → 3D Printing → Manufacturing → Data Science → AI Systems → Systems Architecture
 
 I enjoy going head-first into complex projects — learning the required tools, building systems, and connecting ideas across different fields.
