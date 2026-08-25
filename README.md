@@ -20,28 +20,23 @@ Currently exploring and building:
 
 2. **Generative AI & Creative Technology**
    - ComfyUI workflows
-   - AI-assisted illustration pipelines
-   - Creative automation tools
+   - AI-assisted video & illustration pipelines
 
 3. **Data Science & Machine Learning Projects**
-   - End-to-end ML pipelines
-   - Statistical analysis
    - Data-driven decision systems
+   - Statistical analysis
 
 4. **Data Engineering & Analytics**
-   - Data pipelines
+   - Big Data pipelines
    - Data processing workflows
-   - PowerBI & Tableau dashboards
 
 5. **Web Applications & Automation**
    - Full-stack applications
-   - APIs and integrations
    - Workflow automation with AI assistance
 
 6. **Hardware & Engineering Experiments**
    - Embedded systems
-   - IoT concepts
-   - Electronics and maker projects
+   - IoT, Electronics and maker projects
 
 I am always eager to connect with fellow builders, engineers, data enthusiasts, and AI explorers. Feel free to explore my projects and reach out for discussions, feedback, or collaboration.
 
