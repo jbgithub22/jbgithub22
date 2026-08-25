@@ -35,7 +35,7 @@ Currently exploring and building:
    - Data processing workflows
 
 5. **Web Applications & Automation**
-   - Full-stack applications
+   - Full-stack applications (eg Paid Microsoft Store Apps)
    - Workflow automation with AI assistance
 
 6. **Hardware & Engineering Experiments**
