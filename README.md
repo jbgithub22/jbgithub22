@@ -7,11 +7,14 @@ My Path:
 
 I enjoy going head-first into complex projects — learning the required tools, building systems, and connecting ideas across different fields.
 
-And yes, I am taking an **MSDS, not an MSCS**. My focus is not just writing code faster. My focus is understanding problems, working with data, designing AI systems, and turning technology into practical decisions, products, and workflows.
+And yes, I am taking an **![MSDS](https://img.shields.io/badge/MSDS-light_blue), not an ![MSCS](https://img.shields.io/badge/MSCS-light_green)**. My focus is not just writing code faster. My focus is understanding problems, working with data, designing AI systems, and turning technology into practical decisions, products, and workflows.
 
-For those familiar with older university disciplines — Data Science brings together areas that were traditionally studied separately: **Statistics, Econometrics, Computer Science, and now Machine Learning/AI.**
+For those familiar with older university disciplines — Data Science brings together areas that were traditionally studied separately: ![Statistics](https://img.shields.io/badge/Statistics-blue) ![Econometrics](https://img.shields.io/badge/Econometrics-green) ![Computer Science](https://img.shields.io/badge/Computer%20Science-orange) ![Machine Learning/AI](https://img.shields.io/badge/Machine%20Learning%2FAI-purple)
 
 ---
+
+
+
 
 Currently exploring and building:
 
