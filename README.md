@@ -2,6 +2,8 @@
 
 I am just enthusiastic about tech in general. My educational background is in Architecture and Design. It was all fine and good until I slowly dabbled with 3D printing, and that led me deeper into the rabbit hole of engineering. I enjoy going head-first into projects, learning and obtaining the tools and skills as I go.
 
+And yes I'm taking/have MSDS, not MSCS. I don't specialize in writing code faster — I specialize in understanding problems, data, AI systems, and turning them into decisions and products.
+
 Below are things I am currently learning and working on:
 
 1. End-to-End Machine Learning Projects
