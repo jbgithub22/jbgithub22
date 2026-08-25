@@ -1,6 +1,6 @@
 ### Hello and welcome to my repo!
 
-My Path: Architecture → Design → 3D Printing → Manufacturing → Data Science → AI Systems → Systems Architecture
+My Path: Architecture → Design → 3D Printing → Manufacturing → Data Science → AI Systems → Complex Systems Engineering & Architecture
 
 ---
 
