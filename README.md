@@ -10,6 +10,8 @@ And yes, I am taking an **MSDS, not an MSCS**. My focus is not just writing code
 
 For those familiar with older university disciplines — Data Science brings together areas that were traditionally studied separately: **Statistics, Econometrics, Computer Science, and now Machine Learning/AI.**
 
+---
+
 Currently exploring and building:
 
 1. **Local AI & Large Language Model Systems**
